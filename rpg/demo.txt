@@ -1,3 +1,4 @@
 Scenario & rules:
 1. Intro
-2. Preprarations
+2. Prerequisites
+3. Story
